@@ -1,8 +1,8 @@
 ---
-_layout: category
-title: Pairings
+layout: series
+title: Tips and trivia
 description:
-banner_path: /images/banners/banner6.jpg
+banner_path: /images/banners/banner7.jpg
 featured-category: true
 _comments:
   featured-category: Do you want this category to appear on the front page?

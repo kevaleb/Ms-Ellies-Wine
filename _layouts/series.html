@@ -7,5 +7,5 @@ layout: default
 	</hgroup>
 </div>
 
-{% assign posts = site.posts | where:"category",page.title  %}
+{% assign posts = site.posts | where:"series",page.title  %}
 {% include posts.html %}

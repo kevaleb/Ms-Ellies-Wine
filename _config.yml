@@ -13,6 +13,6 @@ excerpt_separator: ///
 collections:
   main-pages:
     output: true
-  categories:
+  series:
     output: true
   authors:
