@@ -1,0 +1,11 @@
+<nav>
+	<a href="/">Home</a>
+	{% for item in site.main-pages %}
+	<a href="{{ item.url }}" {% if page.url contains item.navclass %}class="selected"{% endif %}>{{ item.navtitle }}</a>
+	{% endfor %}
+	
+	
+	{% for item in site.categories %}
+	<a href="{{ item.url }}">{{ item.title }}</a>
+	{% endfor %}
+</nav>
