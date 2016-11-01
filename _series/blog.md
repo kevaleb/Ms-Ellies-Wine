@@ -1,5 +1,5 @@
 ---
-_layout: category
+layout: category
 title: Blog
 description:
 banner_path:
