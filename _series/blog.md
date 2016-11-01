@@ -1,6 +1,6 @@
 ---
 layout: series
-title: Blog
+title: Blogsssss
 description:
 banner_path:
 featured-category:
