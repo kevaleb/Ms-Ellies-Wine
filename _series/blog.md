@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: For The Love Of....
 description:
 banner_path:
