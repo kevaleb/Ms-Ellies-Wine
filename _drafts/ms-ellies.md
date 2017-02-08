@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Vegas Baby...
-date:
+date: 2016-10-12 00:00:00
 series:
 author:
 banner_path:
