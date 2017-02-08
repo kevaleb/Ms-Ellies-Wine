@@ -1,10 +1,12 @@
 ---
 layout: article
-title: Ms Ellies
+title: Vegas Baby...
 date:
-series: Daily Deals
-author: Ellie Timpson
+series:
+author:
 banner_path:
 gallery:
   - image_path:
 ---
+
+
